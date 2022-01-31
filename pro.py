@@ -84,11 +84,14 @@ def logo():
 
 	os.system("clear")
 
-	print("""\x1b[0;32m╔════════════════════════════════════════════╗
+	priprint("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║WELCOME TO MY TOOLS  [☢️ TALHA ARIAN ⚠️].  ║
+\x1b[0;33m║WELCOME TO MY TOOLS  [☢️ BICP PRO ⚠️].  ║
+nt("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║       OUR FB GROUP: 🔰 BD TARGET GANG 🔰. ║
+\x1b[0;33m║WELCOME TO MY TOOLS  [☢️ BICP ⚠️]. .....................  ║
+
+\x1b[0;33m║       OUR FB GROUP: 🔰 Bangladesh Islamic Cyber Protector🔰 ║
 
 \x1b[0;33m╚════════════════════════════════════════════╝
 
